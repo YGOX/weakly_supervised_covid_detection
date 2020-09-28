@@ -1,3 +1,5 @@
+This code was developed for the IEEE access paper "Weakly Supervised Deep Learning for COVID-19 Infection Detection and Classification From CT Images". linked here: https://ieeexplore.ieee.org/abstract/document/9127422 
+
 generate_cross_validation.py- split subjects and return train and validation image lists for 5-fold cross-validation, saved in .npy files
 
 model_cls2.py- build model for binary classification 
