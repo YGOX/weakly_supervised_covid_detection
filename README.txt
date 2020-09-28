@@ -14,7 +14,7 @@ plot_cams.py- plot multiscale class activation maps
 
 plot_saliency.py- generate multi-scale saliency and joint saliency 
 
-saliency folder- codes for integrated gradients
+saliency folder- codes for integrated gradients: git clone https://github.com/PAIR-code/saliency.git
 
 roc.py- plot roc curves 
 
