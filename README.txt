@@ -2,6 +2,8 @@ This code was developed for the IEEE access paper "Weakly Supervised Deep Learni
 
 Data used in the research is kept in IIAT OSMART server: the vesion is v7, containing covid, normal neumonia and healthy Lung CT images. 
 
+Contrast_adjust.m- Correcting the contrast of Covid CT Images with the reference of a random healthy Lung CT image
+
 generate_cross_validation.py- split subjects and return train and validation image lists for 5-fold cross-validation, saved in .npy files
 
 model_cls2.py- build model for binary classification 
